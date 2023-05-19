@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">VisualNovel</string>
+
+    <!--Android 1-->
+    <string name="myApp">My Visual Novel</string>
+    <string name="start">Start</string>
+
+    <!-- Android 2 -->
+    <string name="p2_hello">Hello! My name is Jack\. And you?</string>
+    <string name="p2_input">Input your name\.\.\.</string>
+    <string name="p2_accept">Accept</string>
+
+    <!-- Android 3 -->
+    <string name="p3_great">Great, %1$s! What we are going to do?</string>
+    <string name="p3_walking">Walking</string>
+    <string name="p3_hiking">Hiking</string>
+    <string name="p3_field">Go to the field</string>
+
+    <!-- Android 4 -->
+    <string name="p4_question">May be, go home?</string>
+    <string name="p4_btn1">Yes, and watch the film</string>
+    <string name="p4_btn2">Yes, and celebrate the Halloween</string>
+
+    <!-- Android 5 -->
+    <string name="p5_question">How cozy\.\.\. But it’s already getting dark\.\.\.</string>
+    <string name="p5_btn1">Go home and watch the film</string>
+    <string name="p5_btn2">Go home and celebrate Halloween</string>
+
+    <!-- Android 6 -->
+    <string name="p6_question">You are sad\.\.\. Let\'s go home?</string>
+    <string name="p6_btn1">May be, let\’s watch the film?</string>
+    <string name="p6_btn2">Yes, let\'s celebrate the Halloween</string>
+
+    <!-- Android 7 -->
+    <string name="p7_question">Do you like this film?</string>
+    <string name="p7_btn1">I like it!</string>
+    <string name="p7_btn2">No\.\.\.</string>
+
+    <!-- Android 8 -->
+    <string name="p8_question">Very beautiful!</string>
+    <string name="p8_btn1">Yes! Let\’s watch the film!</string>
+    <string name="p8_btn2">Yes! Let\’s create costume!</string>
+
+    <!-- Android 9 -->
+    <string name="p9_question">Great! It’s time to sleep...</string>
+    <string name="p9_btn1">Yes, it\’s too late\.\.\.</string>
+
+    <!-- Android 10 -->
+    <string name="p10_question">May be go sleep?</string>
+    <string name="p10_btn1">Yes, it\’s too late\.\.\.</string>
+
+    <!-- Android 11 -->
+    <string name="p11_question">I like your costume\.</string>
+    <string name="p11_btn1">Your costume is beautiful too!</string>
+    <string name="p11_btn2">To tell you the truth, I don\’t like your\.\.\.</string>
+
+    <!-- Android 12 -->
+    <string name="p12_question">Thank you! Let\’s go to sleep.</string>
+    <string name="p12_btn1">Yes, it\’s too late\.\.\.</string>
+
+    <!-- Android 13 -->
+    <string name="p13_question">It\’s ok, \’m not taking offence. Let\’s go to sleep!</string>
+    <string name="p13_btn1">Yes, it\’s too late\.\.\.</string>
+
+    <!-- Android 14 -->
+    <string name="p14_finish">Thank you for playing!</string>
+    <string name="p14_repeat">Repeat the game</string>
+</resources>
