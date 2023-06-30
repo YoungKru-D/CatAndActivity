@@ -77,6 +77,3 @@ class ScenarioPlay : AppCompatActivity() {
 
     data class PageData(val imageResId: Int, val questionResId: Int, val button1ResId: Int, val button2ResId: Int)
 }
-//getPageData(): This method returns a PageData object that contains image, question, and button text information based on the received page number as a parameter.
-//
-//getNextPage(): This method returns the next page number based on the current page and which button the user clicked.
