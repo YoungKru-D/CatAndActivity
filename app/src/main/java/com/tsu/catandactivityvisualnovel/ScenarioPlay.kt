@@ -77,3 +77,4 @@ class ScenarioPlay : AppCompatActivity() {
 
     data class PageData(val imageResId: Int, val questionResId: Int, val button1ResId: Int, val button2ResId: Int)
 }
+//this is for recommit
