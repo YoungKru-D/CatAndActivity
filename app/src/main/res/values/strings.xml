@@ -65,4 +65,7 @@
     <!-- Android 14 -->
     <string name="p14_finish">Thank you for playing!</string>
     <string name="p14_repeat">Repeat the game</string>
+
+    <!-- Blank screen -->
+    <string name="blank"></string>
 </resources>
